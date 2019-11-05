@@ -4,7 +4,9 @@
 
 This four week course introduces participants to implementation of machine learning methods in Python using Jupyter Notebooks. Each two hour session will include brief tutorials interspersed with challenge exercises, and assumes attendees are familiar with basic Python syntax, using packages, and basic data manipulation using Pandas. The course also assumes a strong foundation in basic statistics as well as prior/concurrent participation in the fredhutch.io course Concepts in Machine Learning (or equivalent experience). At the end of this course, you will be able to apply basic principles of machine learning to research questions and will have established a foundation for further exploration of machine learning techniques.
 
-[[links to other materials that have been adapted in this lesson]]
+Much of the material for these lessons has been adapted from these sources:
+* [An Introduction to Statistical Learning with Applications in R](http://www.statlearning.com/)
+* [ml_101](https://github.com/QCaudron/ml_101)
 
 Software requirements for this course can be found on [fredhutch.io's Software page](http://www.fredhutch.io/software/).
 
