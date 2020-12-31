@@ -15,12 +15,15 @@ This four class course introduces participants to implementation of machine lear
 
 ## Resources
 
-* Materials for each class are described in the script prefaced with the number of the class.
-* [`exercises/`](exercises/) includes a file for each class representing both the aggregated in-class exercises as well as additional
-supplemental exercises for practice
-* [`solutions/`](solutions/) includes the solutions for all files in `exercises/`
-* [`instructors.md`](instructors.md) includes information for instructors to facilitate teaching each lesson
-* [`hackmdio.txt`](hackmdio.txt) is an archive of the [interactive webpage](https://hackmd.io) used during lessons
+Please see the following resources for more information on:
+- [**Teaching**](https://github.com/fredhutchio/instructors) these materials.
+[`instructors.md`](instructors.md) includes information for instructors to facilitate teaching each lesson,
+including additional options if a participant can't install R,
+RStudio, or tidyverse on their computer.
+[`hackmdio.md`](hackio.md) is an archive of the [interactive webpage](https://hackmd.io) used during lessons.
+- [**Contributing**](https://github.com/fredhutchio/curriculum_contribution) to lessons.
+Each lesson's materials are described in a Jupyter notebook (`*.ipynb`)
+in the [GitHub repository](https://github.com/fredhutchio/python_machine_learning).
 
 Much of the material for these lessons has been adapted from these sources as well as those referenced in specific notebooks:
 * [An Introduction to Statistical Learning with Applications in R](http://www.statlearning.com/)
